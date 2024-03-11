@@ -14,8 +14,12 @@ File 'Time Series.ipynb' is a Jupiter Notebok file of the actual model creating.
 
 2)Analysis of salesmen and their productivity.
 File 'Salesmen productivity analysis.docx' is the report of our second part(Salesmen analysis)
-FIle 'Salesmen productivity analysis.docx' is a Jupiter Notebook file with all of the actual analysis
+FIle 'Salesmen productivity analysis.ipynb' is a Jupiter Notebook file with all of the actual analysis
 
 3)Delivery forecasting
 File 'Delivery forecast report.docx' is the report of our second part(Salesmen analysis)
-FIle 'Delivery forecast.docx' is a Jupiter Notebook file with all of the actual analysis
+FIle 'Delivery forecast.ipynb' is a Jupiter Notebook file with all of the actual analysis
+
+4)Clustering products by their features
+File 'Clustering Products.docx' is the report of our second part(Salesmen analysis)
+FIle 'Clustering.ipynb' is a Jupiter Notebook file with all of the actual analysis
