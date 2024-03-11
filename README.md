@@ -16,3 +16,6 @@ File 'Time Series.ipynb' is a Jupiter Notebok file of the actual model creating.
 File 'Salesmen productivity analysis.docx' is the report of our second part(Salesmen analysis)
 FIle 'Salesmen productivity analysis.docx' is a Jupiter Notebook file with all of the actual analysis
 
+3)Delivery forecasting
+File 'Delivery forecast report.docx' is the report of our second part(Salesmen analysis)
+FIle 'Delivery forecast.docx' is a Jupiter Notebook file with all of the actual analysis
