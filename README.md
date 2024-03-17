@@ -1,4 +1,4 @@
-# Online Shop Analisys
+# Online Shop Analysis 
 We're given a dataset of online shop. Our main objective is to improve productivity and optimize the work process of this business.
 
 Main parts of this project:
